@@ -1,2 +1,2 @@
 # problem_solving_C
-here i tray to solve problems in c 
+here i try to solve problems in c 
